@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer projeto 01 </h1>
+<h1 align="center"> Projeto Travelgram </h1>
 
 <p align="center">
 Esse projeto foi desenvolvido durante um curso da Rocketseat para melhor entendimento meu e de outros alunos da Rocketseat <br/>
